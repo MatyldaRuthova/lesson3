@@ -4,3 +4,8 @@ INSERT INTO lesson3(name, year) VALUES ("Anna", 25);
 INSERT INTO lesson3(name, year) VALUES ("Jana", 38);
 INSERT INTO lesson3(name, year) VALUES ("Mariana", 19);
 INSERT INTO lesson3(name, year) VALUES ("Jonathan", 29);
+INSERT INTO lesson3(name, year) VALUES ("Jonn", 29);
+INSERT INTO lesson3(name, year) VALUES ("Mona", 49);
+INSERT INTO lesson3(name, year) VALUES ("Joana", 23);
+
+
